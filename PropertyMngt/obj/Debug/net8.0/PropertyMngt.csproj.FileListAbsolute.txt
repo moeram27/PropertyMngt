@@ -1,0 +1,14 @@
+C:\dev\src\PropertyMngt\PropertyMngt\bin\Debug\net8.0\PropertyMngt.exe
+C:\dev\src\PropertyMngt\PropertyMngt\bin\Debug\net8.0\PropertyMngt.deps.json
+C:\dev\src\PropertyMngt\PropertyMngt\bin\Debug\net8.0\PropertyMngt.runtimeconfig.json
+C:\dev\src\PropertyMngt\PropertyMngt\bin\Debug\net8.0\PropertyMngt.dll
+C:\dev\src\PropertyMngt\PropertyMngt\bin\Debug\net8.0\PropertyMngt.pdb
+C:\dev\src\PropertyMngt\PropertyMngt\obj\Debug\net8.0\PropertyMngt.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\src\PropertyMngt\PropertyMngt\obj\Debug\net8.0\PropertyMngt.AssemblyInfoInputs.cache
+C:\dev\src\PropertyMngt\PropertyMngt\obj\Debug\net8.0\PropertyMngt.AssemblyInfo.cs
+C:\dev\src\PropertyMngt\PropertyMngt\obj\Debug\net8.0\PropertyMngt.csproj.CoreCompileInputs.cache
+C:\dev\src\PropertyMngt\PropertyMngt\obj\Debug\net8.0\PropertyMngt.dll
+C:\dev\src\PropertyMngt\PropertyMngt\obj\Debug\net8.0\refint\PropertyMngt.dll
+C:\dev\src\PropertyMngt\PropertyMngt\obj\Debug\net8.0\PropertyMngt.pdb
+C:\dev\src\PropertyMngt\PropertyMngt\obj\Debug\net8.0\PropertyMngt.genruntimeconfig.cache
+C:\dev\src\PropertyMngt\PropertyMngt\obj\Debug\net8.0\ref\PropertyMngt.dll
