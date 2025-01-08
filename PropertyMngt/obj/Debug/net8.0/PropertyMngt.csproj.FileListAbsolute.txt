@@ -12,3 +12,4 @@ C:\dev\src\PropertyMngt\PropertyMngt\obj\Debug\net8.0\refint\PropertyMngt.dll
 C:\dev\src\PropertyMngt\PropertyMngt\obj\Debug\net8.0\PropertyMngt.pdb
 C:\dev\src\PropertyMngt\PropertyMngt\obj\Debug\net8.0\PropertyMngt.genruntimeconfig.cache
 C:\dev\src\PropertyMngt\PropertyMngt\obj\Debug\net8.0\ref\PropertyMngt.dll
+C:\dev\src\PropertyMngt\PropertyMngt\obj\Debug\net8.0\PropertyMngt.sourcelink.json

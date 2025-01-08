@@ -5,6 +5,34 @@
     {
       "AbsoluteMoniker": "D:0:0:{8CEC63FA-595C-410A-9EF9-0D6A73006450}|PropertyMngt\\PropertyMngt.csproj|c:\\dev\\src\\propertymngt\\propertymngt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8CEC63FA-595C-410A-9EF9-0D6A73006450}|PropertyMngt\\PropertyMngt.csproj|solutionrelative:propertymngt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CEC63FA-595C-410A-9EF9-0D6A73006450}|PropertyMngt\\PropertyMngt.csproj|c:\\dev\\src\\propertymngt\\propertymngt\\models\\land.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CEC63FA-595C-410A-9EF9-0D6A73006450}|PropertyMngt\\PropertyMngt.csproj|solutionrelative:propertymngt\\models\\land.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CEC63FA-595C-410A-9EF9-0D6A73006450}|PropertyMngt\\PropertyMngt.csproj|c:\\dev\\src\\propertymngt\\propertymngt\\services\\buyerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CEC63FA-595C-410A-9EF9-0D6A73006450}|PropertyMngt\\PropertyMngt.csproj|solutionrelative:propertymngt\\services\\buyerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CEC63FA-595C-410A-9EF9-0D6A73006450}|PropertyMngt\\PropertyMngt.csproj|c:\\dev\\src\\propertymngt\\propertymngt\\services\\propertyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CEC63FA-595C-410A-9EF9-0D6A73006450}|PropertyMngt\\PropertyMngt.csproj|solutionrelative:propertymngt\\services\\propertyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CEC63FA-595C-410A-9EF9-0D6A73006450}|PropertyMngt\\PropertyMngt.csproj|c:\\dev\\src\\propertymngt\\propertymngt\\models\\property.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CEC63FA-595C-410A-9EF9-0D6A73006450}|PropertyMngt\\PropertyMngt.csproj|solutionrelative:propertymngt\\models\\property.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CEC63FA-595C-410A-9EF9-0D6A73006450}|PropertyMngt\\PropertyMngt.csproj|c:\\dev\\src\\propertymngt\\propertymngt\\models\\buyer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CEC63FA-595C-410A-9EF9-0D6A73006450}|PropertyMngt\\PropertyMngt.csproj|solutionrelative:propertymngt\\models\\buyer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CEC63FA-595C-410A-9EF9-0D6A73006450}|PropertyMngt\\PropertyMngt.csproj|c:\\dev\\src\\propertymngt\\propertymngt\\models\\apartment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CEC63FA-595C-410A-9EF9-0D6A73006450}|PropertyMngt\\PropertyMngt.csproj|solutionrelative:propertymngt\\models\\apartment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CEC63FA-595C-410A-9EF9-0D6A73006450}|PropertyMngt\\PropertyMngt.csproj|c:\\dev\\src\\propertymngt\\propertymngt\\models\\shop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CEC63FA-595C-410A-9EF9-0D6A73006450}|PropertyMngt\\PropertyMngt.csproj|solutionrelative:propertymngt\\models\\shop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +42,98 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 7,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Shop.cs",
+              "DocumentMoniker": "C:\\dev\\src\\PropertyMngt\\PropertyMngt\\Models\\Shop.cs",
+              "RelativeDocumentMoniker": "PropertyMngt\\Models\\Shop.cs",
+              "ToolTip": "C:\\dev\\src\\PropertyMngt\\PropertyMngt\\Models\\Shop.cs",
+              "RelativeToolTip": "PropertyMngt\\Models\\Shop.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAowBoAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T08:28:37.398Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BuyerService.cs",
+              "DocumentMoniker": "C:\\dev\\src\\PropertyMngt\\PropertyMngt\\Services\\BuyerService.cs",
+              "RelativeDocumentMoniker": "PropertyMngt\\Services\\BuyerService.cs",
+              "ToolTip": "C:\\dev\\src\\PropertyMngt\\PropertyMngt\\Services\\BuyerService.cs",
+              "RelativeToolTip": "PropertyMngt\\Services\\BuyerService.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAnwBgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T10:07:07.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PropertyService.cs",
+              "DocumentMoniker": "C:\\dev\\src\\PropertyMngt\\PropertyMngt\\Services\\PropertyService.cs",
+              "RelativeDocumentMoniker": "PropertyMngt\\Services\\PropertyService.cs",
+              "ToolTip": "C:\\dev\\src\\PropertyMngt\\PropertyMngt\\Services\\PropertyService.cs",
+              "RelativeToolTip": "PropertyMngt\\Services\\PropertyService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T08:51:51.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Land.cs",
+              "DocumentMoniker": "C:\\dev\\src\\PropertyMngt\\PropertyMngt\\Models\\Land.cs",
+              "RelativeDocumentMoniker": "PropertyMngt\\Models\\Land.cs",
+              "ToolTip": "C:\\dev\\src\\PropertyMngt\\PropertyMngt\\Models\\Land.cs",
+              "RelativeToolTip": "PropertyMngt\\Models\\Land.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T08:24:13.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Apartment.cs",
+              "DocumentMoniker": "C:\\dev\\src\\PropertyMngt\\PropertyMngt\\Models\\Apartment.cs",
+              "RelativeDocumentMoniker": "PropertyMngt\\Models\\Apartment.cs",
+              "ToolTip": "C:\\dev\\src\\PropertyMngt\\PropertyMngt\\Models\\Apartment.cs",
+              "RelativeToolTip": "PropertyMngt\\Models\\Apartment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T08:20:25.342Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Buyer.cs",
+              "DocumentMoniker": "C:\\dev\\src\\PropertyMngt\\PropertyMngt\\Models\\Buyer.cs",
+              "RelativeDocumentMoniker": "PropertyMngt\\Models\\Buyer.cs",
+              "ToolTip": "C:\\dev\\src\\PropertyMngt\\PropertyMngt\\Models\\Buyer.cs",
+              "RelativeToolTip": "PropertyMngt\\Models\\Buyer.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACAAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T08:11:39.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Property.cs",
+              "DocumentMoniker": "C:\\dev\\src\\PropertyMngt\\PropertyMngt\\Models\\Property.cs",
+              "RelativeDocumentMoniker": "PropertyMngt\\Models\\Property.cs",
+              "ToolTip": "C:\\dev\\src\\PropertyMngt\\PropertyMngt\\Models\\Property.cs",
+              "RelativeToolTip": "PropertyMngt\\Models\\Property.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T07:37:55.581Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,7 +142,7 @@
               "RelativeDocumentMoniker": "PropertyMngt\\Program.cs",
               "ToolTip": "C:\\dev\\src\\PropertyMngt\\PropertyMngt\\Program.cs",
               "RelativeToolTip": "PropertyMngt\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAH4AAAAAAAAAAAAAAJgAAABIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-07T07:27:00.454Z",
               "EditorCaption": ""
